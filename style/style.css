@@ -1,0 +1,45 @@
+html{
+background-color: #fff;
+}
+
+body{
+margin: 5% auto 5% auto; 
+padding: 0px;
+font-size: 100%;
+font-family: 'Press Start 2P', helvetica, arial, sans-serif;
+width: 50%;
+}
+
+header{
+	text-align: center;
+	margin-top: 0px;
+}
+
+
+h1{
+	font-size: 2.5em;
+	margin:0px;
+}
+
+p{
+	font-size: 1em;
+}
+
+.gal {
+	margin-top: 100px;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.gal img{
+	width: 25%;
+}
+
+.stephen{
+	background-image: url('img/stephen.png');
+
+}
+
+.stephen :hover{
+	background-image: url('img/stephen-photo.png');
+}
